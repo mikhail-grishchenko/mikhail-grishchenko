@@ -1,10 +1,13 @@
-### Hi there 👋
+### Hi Everyone👋
 
 ![Header](https://github.com/mikhail-grishchenko/mikhail-grishchenko/blob/main/assets/mikhail-grishchenko.png)
 
-About me
+💬 About me:
+Software developer.
 
-Languages and Tools
+⚡ Tech Stack:
+Python, Django Framework, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, ML, SQL, Html, Css, Js, Adobe Photoshop, CMD, Bash.
+
 
 
 
