@@ -2,7 +2,7 @@
 Software developer.
 
 ⚡ Tech Stack:
-Python, Django Framework, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, ML, SQL, Html, Css, Js, Adobe Photoshop, CMD, Bash.
+Python, SQL, Airflow, DBT, Django Framework, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, ML, Html, Css, Js, Adobe Photoshop, CMD, Bash.
 
 📫 Telegram: https://t.me/cmd_key
 
