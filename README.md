@@ -1,5 +1,4 @@
-💬 About me:
-Software developer.
+💬 About me: Data Engineer, Software developer.
 
 ⚡ Tech Stack:
 Python, SQL, Airflow, DBT, Django Framework, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, ML, Html, Css, Js, Adobe Photoshop, CMD, Bash.
